@@ -1,4 +1,4 @@
-﻿// HomeWork template project v 5.0 // 22.06.2023 //
+﻿// HomeWork template project v 6.0 // 27.06.2023 //
 
 /*
 
