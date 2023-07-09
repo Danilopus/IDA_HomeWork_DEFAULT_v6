@@ -136,7 +136,7 @@
     <ClCompile Include="inHabbitant.cpp" />
     <ClCompile Include="MainMenu.cpp" />
     <ClCompile Include="OverCoat.cpp" />
-    <ClCompile Include="!IDA_Home_DEFAULT.cpp" />
+    <ClCompile Include="!_Main.cpp" />
     <ClCompile Include="Service functions.cpp" />
     <ClCompile Include="UnitTest.cpp" />
   </ItemGroup>
